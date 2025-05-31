@@ -11,13 +11,25 @@ Arrhythmia is a widespread affliction, affecting millions globally. A significan
 
 # A few factors can cause the heart to work incorrectly, they include:
 
-•alcohol abuse.
+• alcohol abuse.
+
+
 • diabetes. 
-• drug abuse. 
-• excessive coffee consumption. 
+
+
+• drug abuse.
+ 
+• excessive coffee consumption.
+ 
 • heart disease like congestive heart failure. 
+
+
 • hypertension (high blood pressure). 
+
+
 • hyperthyroidism (an overactive thyroid gland).
+
+
 
 # Electrocardiogram (ECG):
 
